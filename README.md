@@ -1,4 +1,4 @@
-# *Sur les traces d Hérodote*
+# *Sur les traces d'Hérodote*
 ## Description
 Ce projet est une fiction interactive, intitulée *Sur les traces d'Hérodote*. Il est issu d'un cours de publication numérique proposé par l'université de Lausanne (faculté des lettres, section des sciences du langage et de l'information, cours "Publication numérique" donné par le professeur Isaac Pante, semestre automne 2019). 
 
