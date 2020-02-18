@@ -16,7 +16,7 @@ This interactive fiction was developed with the software [Twine](https://twinery
 Le jeu permet de faire des choix et de s'initier à la critique de sources.
 
 ![Game image2](https://surlestracesdherodote.yolasite.com/resources/Hrodote-screenshot2.jpg)
-Il permet également, au travers de quelques extraits, de découvrir l'oeuvre d'Hérodote, écrite il y a environ 2500 ans ! 
+Il permet également, au travers d'extraits de textes, de découvrir de manière ludique l'oeuvre d'Hérodote, écrite il y a environ 2500 ans ! 
 
 ## Installation 
 Aucune procédure particulière d'installation n'est recquise. Il suffit de télécharger le dossier (avec le bouton "Clone or download" et d'ouvrir le fichier intitulé "Projet .html" dans un navigateur web.
