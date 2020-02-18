@@ -19,7 +19,7 @@ Le jeu permet de faire des choix et de s'initier à la critique de sources.
 Il permet également, au travers de quelques extraits, de découvrir l'oeuvre d'Hérodote, écrite il y a environ 2500 ans ! 
 
 ## Installation 
-Aucune procédure particulière d'installation n'est recquise. Il suffit de télécharger le fichier intitulé "Projet.html" et de l'ouvrir dans un navigateur web.
+Aucune procédure particulière d'installation n'est recquise. Il suffit de télécharger le fichier intitulé "Projet .html" et de l'ouvrir dans un navigateur web.
 
 ## Avertissement
 Le jeu n'est actuellement pas terminé. Environ 1/3 du jeu est terminé.
