@@ -18,10 +18,11 @@ Le jeu permet de faire des choix et de s'initier à la critique de sources.
 ![Game image2](https://surlestracesdherodote.yolasite.com/resources/Hrodote-screenshot2.jpg)
 Il permet également, au travers de quelques extraits, de découvrir l'oeuvre d'Hérodote, écrite il y a environ 2500 ans ! 
 
-## Procédure d'installation 
+## Installation 
+Aucune procédure particulière d'installation n'est recquise. Il suffit de télécharger le fichier intitulé "Projet.html" et de l'ouvrir dans un navigateur web.
 
 ## Avertissement
 Le jeu n'est actuellement pas terminé. Environ 1/3 du jeu est terminé.
 
 ## Contexte de développement 
-Ce projet a été développé dans le cadre du cours "Publication numérique", dispensé par Isaac Pante (SLI, Faculté des Lettres, Université de Lausanne).
+Ce projet a été développé par Jeremy Chaumont dans le cadre du cours "Publication numérique", dispensé par Isaac Pante (Section SLI, Faculté des Lettres, Université de Lausanne) - Automne 2019.
